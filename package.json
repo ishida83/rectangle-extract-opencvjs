@@ -1,0 +1,28 @@
+{
+  "name": "rectangle-extract-opencvjs",
+  "version": "1.0.0",
+  "description": "基于 opencv.js 实现矩形抽离的纯前端项目",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francecil/rectangle-extract-opencvjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francecil/rectangle-extract-opencvjs/issues"
+  },
+  
+  "homepage": "https://ishida83.github.io/rectangle-extract-opencvjs",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
